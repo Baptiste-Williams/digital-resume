@@ -40,10 +40,21 @@ Upload files to AWS S3 and enable static website hosting.
 Mask the S3 endpoint with a No-IP domain.
 
  Screenshots
+![repo 1](https://github.com/user-attachments/assets/774b6f89-1e04-46d1-9269-dbe56a1aebdf)
 
 
- Credits
-Built by Baptiste Williams as part of coursework at Santa Monica College. Frameworks: Bootstrap, Bootstrap Icons.
+![repo2](https://github.com/user-attachments/assets/5e80071d-ce28-42d1-af85-bfb012df6bbc)
+
+![repo3](https://github.com/user-attachments/assets/9775ca4a-fe66-4be3-a2ec-b7d8870c7ce3)
+
+
+
+
+
+
+
+Credits
+Built by Baptiste Williams- as part of coursework at Santa Monica College. Frameworks: Bootstrap, Bootstrap Icons.
 
 
 
